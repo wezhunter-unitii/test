@@ -1,0 +1,8 @@
+{
+	"result": {
+		"version": "1.6.3",
+		"packs": {
+			"com.test.testapp": "client.apk"
+		}
+	}
+}
